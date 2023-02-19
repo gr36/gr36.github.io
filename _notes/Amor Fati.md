@@ -1,6 +1,5 @@
 ---
 title: Amor Fati
-source: [Daily Stoic Youtube](https://youtu.be/KcMyvGh8m1Q)
 feed: show
 ---
 From Latin, may be translated as "love of fate" or "loves ones fate".
