@@ -1,6 +1,7 @@
 ---
 title: Eternal Recurrence
 source: Duncan Trussel and Lex Fridman [Podcast](https://www.youtube.com/watch?v=jdIyNMkusLE)
+feed: show
 ---
 There are hints in ancient writings that the theory of eternal return may have originated with Pythagoras (c. 570 – c. 495 BC) however the idea was common with Stoicism that time repeats itself in a constant loop and that exactly the same events will happen over and over again.
 
